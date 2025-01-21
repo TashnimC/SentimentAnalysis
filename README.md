@@ -1,5 +1,5 @@
 # Sentiment Analysis
-## Methods:
+## Methods
 1. Naive Bayes
 2. Recurrent Neural Network (RNN)
 
